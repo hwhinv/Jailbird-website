@@ -1289,4 +1289,11 @@ playback timings (ms):
   load_resource: 137.251
   PetaboxLoader3.resolve: 70.68
   PetaboxLoader3.datanode: 65.241
-*/
+*//* Team page overrides */
+#team_page_10 {
+  height: auto !important;
+  overflow: visible !important;
+}
+#team_page_10 .middle-wrap-table {
+  height: auto !important;
+}
